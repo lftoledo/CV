@@ -26,7 +26,7 @@ I have  AWS certification (Architect and SysOps), ITIL and Cobit.
 *   **Monitoring:** A lot of tools, focused on health checks and monitoring application behavior.
 *   **Http servers:** Tomcat, Jetty, JBoss, Nginx, Apache, Unicorn, etc. 
 *   **Infrastructure as code and automation:** Ansible, Terraform and Cloud Formation.
-*   **Virtualisation:** Docker, Kubernetes, Tsuru, Kops, vagrant and VMWare.
+*   **Virtualization:** Docker, Kubernetes, Tsuru, Kops, vagrant and VMWare.
 *   **Programming skills:** Shell scripts and Python.
 *   **Methodologies:** Agile, Lean, Git flow, Kanban and Squad teams.
 *   **Databases:** MySQL, PostGreSQL, ElasticSearch and Cassandra.
@@ -52,14 +52,14 @@ Migrating some companies of the holding to AWS / Kubernetes. Applying DevOps / S
 
 ### System Engineer
 
-*   Migration of [LiferHeld](www.liferheld.de) and [Pizza](www.pizza.de) to Kubernetes.
+*   Migration of [LiferHeld](http://www.liferheld.de) and [Pizza](http://www.pizza.de) to Kubernetes.
 *   Implementation of Terraform for all components.
 *   Pipeline from Staging to QA.
 *   Structured the implementation of SSO based on Google Account.
 
 ### Rivendel Tecnologia from 2014 to November 2017
 
-I had a chance to manage 25 colleagues, divided into 6 teams, each team had their own tech lead, which I had more contact. I also managed the infrastructure of large customers such as [Hotel Urbano](www.hotelurbano.com.br), [Rio 2016](www.rio2016.com.br), [Dinda](www.dinda.com.br), [Oppa](www.oppa.com.br) and [Sicredi](www.sicredi.com.br).
+I had a chance to manage 25 colleagues, divided into 6 teams, each team had their own tech lead, which I had more contact. I also managed the infrastructure of large customers such as [Hotel Urbano](http://www.hotelurbano.com.br), [Rio 2016](http://www.rio2016.com.br), [Dinda](http://www.dinda.com.br), [Oppa](http://www.oppa.com.br) and [Sicredi](http://www.sicredi.com.br).
 
 ### DevOps and SRE Manager
 
@@ -75,7 +75,7 @@ I had a chance to manage 25 colleagues, divided into 6 teams, each team had thei
 
 Administration of marketing web campaigns such as "Guarana Antartica" with more than 1 million hits. Managing third party workers, connections and office IT. 
 
-### Infrastructure Coodinator
+### Infrastructure Coordinator
 
 *   Architecture of the hot sites in a DC.
 *   Configuration and tunning of the SO and Database.
@@ -101,7 +101,7 @@ Design and implementation of the convergence of telephony and interconnection wi
 
 *   Administration of Asterisk servers, development of the telephone network linking all campuses UNIFESP.
 *   Administration of DNS services, email, backup, firewall, DHCP, etc..
-*   Opensource monitoring systems (Nagios, Snort, Zabbix).
+*   Open source monitoring systems (Nagios, Snort, Zabbix, etc).
 
 ### VIPWay Telecommunications - 06/2003 to 10/2006
 
