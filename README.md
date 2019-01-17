@@ -2,15 +2,15 @@
 
 Phone: 015205198803 - Cell
 
-Email: lftoledo@gmail.com 
+Email: lftoledo@gmail.com
 
 ## Professional Qualifications
 
 I have 15 years of experience in infrastructure. Last 6 years I've been working on to delivery state of art architectures. Being consultant I've developed leadership and communications skills.
 
- I have always applied LEAN thoughts, and be more innovative in my day-to-day problems. In the past year, I organized a Consulting Operations team to work with the principle of SRE with Kaban methodologies. I am also proficient in operations cost optimization.
+ I have always applied LEAN thoughts, and be more innovative in my day-to-day problems. In the past year, I organized a Consulting Operations team to work with the principle of SRE with Kaban methodologies. I am also proficient in operations cost optimization.
 
-I have  AWS certification (Architect and SysOps), ITIL and Cobit.
+I have  AWS certification (Architect and SysOps), ITIL and Cobit.
 
 ### Specialties:
 
@@ -22,14 +22,14 @@ I have  AWS certification (Architect and SysOps), ITIL and Cobit.
 
 ### Hard Skills:
 
-*   **Infrastructure:** Server administration,  HAproxy, Memcached, DNS, and so on.
+*   **Infrastructure:** Server administration,  HAproxy, Memcached, DNS, and so on.
 *   **Monitoring:** A lot of tools, focused on health checks and monitoring application behavior.
-*   **Http servers:** Tomcat, Jetty, JBoss, Nginx, Apache, Unicorn, etc. 
+*   **Http servers:** Tomcat, Jetty, JBoss, Nginx, Apache, Unicorn, etc.
 *   **Infrastructure as code and automation:** Ansible, Terraform and Cloud Formation.
-*   **Virtualization:** Docker, Kubernetes, Tsuru, Kops, vagrant and VMWare.
+*   **Virtualization:** Docker, Kubernetes, Tsuru, Kops, vagrant, and VMWare.
 *   **Programming skills:** Shell scripts and Python.
 *   **Methodologies:** Agile, Lean, Git flow, Kanban and Squad teams.
-*   **Databases:** MySQL, PostGreSQL, ElasticSearch and Cassandra.
+*   **Databases:** MySQL, PostgreSQL, ElasticSearch and Cassandra.
 *   **Cultures:** DevOps and SRE.
 
 ### Soft skills:
@@ -40,21 +40,21 @@ I have  AWS certification (Architect and SysOps), ITIL and Cobit.
 
 ### Education:
 
-*   MBA - FGV -  03/2012
+*   MBA - FGV -  03/2012
 *   Computer Engineering - University of St. Cecilia - 2003
-*   Data Processing Technician - High School Ateneu Santos - 1997 
+*   Data Processing Technician - High School Ateneu Santos - 1997
 
 ## Professional Experience
 
 ### Working at Delivery Hero since December 2017
 
-Leading a infrastructure team.  
+Leading an infrastructure team.  
 Migrating some companies of the holding to AWS / Kubernetes. Applying DevOps / SRE principles.
 
 ##### Lead Infrastructure Engineer (Germany)
 
 *   Reformulate the Sysops team and apply DevOps culture and SRE methodologies.
-*   Restructure monitoring and alerting .
+*   Restructure monitoring and alerting.
 *   Migrate from the old platform to the new environment.
 
 ##### System Engineer
@@ -74,12 +74,12 @@ I had a chance to manage 25 colleagues, divided into 6 teams, each team had thei
 *   Team task management;
 *   Client facing architect discussion;
 *   Migration of huge environments to cloud.
-*   Implementation of workflow process based on DevOps and SRE principles.
+*   Implementation of a workflow process based on DevOps and SRE principles.
 *   Structure of the operations team, NOC, tickets control and the Projects Team.
 
-### Peopleway 01/2013 to 06/2014 
+### Peopleway 01/2013 to 06/2014
 
-Administration of marketing web campaigns such as "Guarana Antartica" with more than 1 million hits. Managing third party workers, connections and office IT. 
+Administration of marketing web campaigns such as "Guarana Antartica" with more than 1 million hits. Managing third party workers, connections and office IT.
 
 ### Infrastructure Coordinator
 
@@ -90,7 +90,7 @@ Administration of marketing web campaigns such as "Guarana Antartica" with more 
 
 ### [UOLDIVEO](http://www.uol.com.br) 10/2011 to 01/2013
 
-I managed to create an HA environment for the TEF Gateway. 
+I managed to create an HA environment for the TEF Gateway.
 
 ### Full System Analyst
 
@@ -99,7 +99,7 @@ I managed to create an HA environment for the TEF Gateway. 
 
 ### UNIFESP (HSP - SPDM) - 11/2006 to 10/2011
 
-I started at UNIFESP as Sysadmin II and managed to reach as Senior Sysadmin, my team has implemented more than 4000 VoIP phones.  [VOIP](http://www.unifesp.br/reitoria/dti/voip)
+I started at UNIFESP as Sysadmin II and managed to reach as Senior Sysadmin, my team has implemented more than 4000 VoIP phones.  [VOIP](http://www.unifesp.br/reitoria/dti/voip)
 
 Design and implementation of the convergence of telephony and interconnection with the PBX, which led to a savings of U$ 50000/m.
 
