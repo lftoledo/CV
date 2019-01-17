@@ -48,13 +48,19 @@ I have  AWS certification (Architect and SysOps), ITIL and Cobit.
 
 ### Working at Delivery Hero since December 2017
 
+Leading a infrastructure team.  
 Migrating some companies of the holding to AWS / Kubernetes. Applying DevOps / SRE principles.
 
-### System Engineer
+##### Lead Infrastructure Engineer (Germany)
 
-*   Migration of [LiferHeld](http://www.liferheld.de) and [Pizza](http://www.pizza.de) to Kubernetes.
+*   Reformulate the Sysops team and apply DevOps culture and SRE methodologies.
+*   Restructure monitoring and alerting .
+*   Migrate from the old platform to the new environment.
+
+##### System Engineer
+
+*   Migration of servers to Kubernetes.
 *   Implementation of Terraform for all components.
-*   Pipeline from Staging to QA.
 *   Structured the implementation of SSO based on Google Account.
 
 ### Rivendel Tecnologia from 2014 to November 2017
