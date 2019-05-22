@@ -8,7 +8,7 @@ Email: lftoledo@gmail.com
 
 I have 15 years of experience in infrastructure. Last 6 years I've been working on to delivery state of art architectures. Being consultant I've developed leadership and communications skills.
 
- I have always applied LEAN thoughts, and be more innovative in my day-to-day problems. In the past year, I organized a Consulting Operations team to work with the principle of SRE with Kaban methodologies. I am also proficient in operations cost optimization.
+ I have always applied LEAN thoughts, and be more innovative in my day-to-day problems. In the past year, I organized a Consulting Operations team to work with the principle of SRE with Kanban methodologies. I am also proficient in operations cost optimization.
 
 I have  AWS certification (Architect and SysOps), ITIL and Cobit.
 
