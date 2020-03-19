@@ -6,7 +6,7 @@ Email: lftoledo@gmail.com
 
 ## Professional Qualifications
 
-I have 15 years of experience in infrastructure. Last 6 years I've been working on to delivery state of art architectures. Being consultant I've developed leadership and communications skills.
+I have 15 years of experience in infrastructure. Last 6 years I've been working on to delivery state of art architectures. Being consultant I've developed leadership and communications skills. I also created a strong understanding of product Roadmaps and how to introduce improvements based on data points.
 
  I have always applied LEAN thoughts, and be more innovative in my day-to-day problems. In the past year, I organized a Consulting Operations team to work with the principle of SRE with Kanban methodologies. I am also proficient in operations cost optimization.
 
@@ -26,9 +26,9 @@ I have  AWS certification (Architect and SysOps), ITIL and Cobit.
 *   **Monitoring:** A lot of tools, focused on health checks and monitoring application behavior.
 *   **Http servers:** Tomcat, Jetty, JBoss, Nginx, Apache, Unicorn, etc.
 *   **Infrastructure as code and automation:** Ansible, Terraform and Cloud Formation.
-*   **Virtualization:** Docker, Kubernetes, Tsuru, Kops, vagrant, and VMWare.
+*   **Virtualization:** Docker, Kubernetes, Kops, Vagrant, and VMWare.
 *   **Programming skills:** Shell scripts and Python.
-*   **Methodologies:** Agile, Lean, Git flow, Kanban and Squad teams.
+*   **Methodologies:** Agile, Scrum, Lean, Git flow, Kanban and Squad teams.
 *   **Databases:** MySQL, PostgreSQL, ElasticSearch and Cassandra.
 *   **Cultures:** DevOps and SRE.
 
@@ -46,9 +46,22 @@ I have  AWS certification (Architect and SysOps), ITIL and Cobit.
 
 ## Professional Experience
 
-### Working at Delivery Hero since December 2017
+### Working at AroundHome since August 2019
 
 Leading an infrastructure team.  
+Migrating the platform from Datacenter to AWS and K8s. Applying DevOps / SRE principles. Created a team of DevOps.
+
+##### Lead Infrastructure Engineer
+
+*   Planning with the CTO and the POs to create a roadmap to the new PaaS.
+*   Analysing the platform and creating a planning to remove technical debt.
+*   Reformulate the Sysops team and apply DevOps culture and SRE methodologies.
+*   Restructure monitoring and alerting.
+*   Migrate from the old platform to the new environment.
+
+### Delivery Hero from December 2017 to August 2019
+
+Leading the german brand infrastructure team.  
 Migrating some companies of the holding to AWS / Kubernetes. Applying DevOps / SRE principles.
 
 ##### Lead Infrastructure Engineer (Germany)
