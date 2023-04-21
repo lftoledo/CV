@@ -6,17 +6,20 @@ Email: lftoledo@gmail.com
 
 ## Professional Qualifications
 
-I have 15 years of experience in infrastructure. Last 6 years I've been working on to delivery state of art architectures. Being consultant I've developed leadership and communications skills. I also created a strong understanding of product Roadmaps and how to introduce improvements based on data points.
+I am a highly experienced leader with over 20 years of expertise in infrastructure and DevOps, specializing in AWS cloud technologies. Throughout my career, I have honed my skills in leading and managing teams to deliver successful projects, utilizing agile methodologies and continuous integration and delivery (CI/CD) pipelines.
 
- I have always applied LEAN thoughts, and be more innovative in my day-to-day problems. In the past year, I organized a Consulting Operations team to work with the principle of SRE with Kanban methodologies. I am also proficient in operations cost optimization.
+As a visionary and strategic thinker, I am able to align business objectives with technology initiatives, and possess the ability to drive change and foster innovation within organizations. My experience in building and maintaining highly scalable and resilient cloud infrastructure, coupled with my leadership skills, makes me an ideal candidate for a director-level role.
 
-I have  AWS certification (Architect and SysOps), ITIL and Cobit.
+I am a strong communicator and relationship-builder, able to work effectively with stakeholders across all levels of an organization. Additionally, my track record of delivering complex projects on time and within budget, coupled with my ability to manage risks and mitigate issues, makes me a valuable asset to any team.
+
+Overall, I am a seasoned leader with a passion for delivering business value through technology innovation, and I am confident that my skills and expertise would be a great fit for a director-level role.
 
 ### Specialties:
 
+*   Strategic thinking
 *   Infrastructure and SRE
-*   Technical Leading
-*   Architecture of HA applications.
+*   Team growth and mentorship
+*   Architecture.
 *   AWS, GCE, Cloud Computing and virtualization
 *   Digital transformation
 
@@ -46,7 +49,17 @@ I have  AWS certification (Architect and SysOps), ITIL and Cobit.
 
 ## Professional Experience
 
-### Working at AroundHome since August 2019
+### Delivery Hero from January 2021 to February 2022
+
+Senior Engineer Manager.  
+Main achievements: Build a Portal team. The tool helped DH to bootstrap hundreds of backoffices reducing the time to market and operations costs.
+
+### Amazon Web Services from January 2021 to February 2022
+
+Technical Account Manager.  
+Main achievements: Supporting customers in their efforts to operate both safely and cost-effectively.
+
+### AroundHome from August 2019 to January 2021
 
 Leading an infrastructure team.  
 Migrating the platform from Datacenter to AWS and K8s. Applying DevOps / SRE principles. Created a team of DevOps.
@@ -54,7 +67,7 @@ Migrating the platform from Datacenter to AWS and K8s. Applying DevOps / SRE pri
 ##### Lead Infrastructure Engineer
 
 *   Planning with the CTO and the POs to create a roadmap to the new PaaS.
-*   Analysing the platform and creating a planning to remove technical debt.
+*   Analysing the platform and creating a plan to remove technical debt.
 *   Reformulate the Sysops team and apply DevOps culture and SRE methodologies.
 *   Restructure monitoring and alerting.
 *   Migrate from the old platform to the new environment.
@@ -78,7 +91,9 @@ Migrating some companies of the holding to AWS / Kubernetes. Applying DevOps / S
 
 ### Rivendel Tecnologia from 2014 to November 2017
 
-I had a chance to manage 25 colleagues, divided into 6 teams, each team had their own tech lead, which I had more contact. I also managed the infrastructure of large customers such as [Hotel Urbano](http://www.hotelurbano.com.br), [Rio 2016](http://www.rio2016.com.br), [Dinda](http://www.dinda.com.br), [Oppa](http://www.oppa.com.br) and [Sicredi](http://www.sicredi.com.br).
+##### Director of DevOps
+
+I had a chance to manage 25 colleagues, divided into 6 teams, each team had their own tech lead, which I had more contact with. I also managed the infrastructure of large customers such as [Hotel Urbano](http://www.hotelurbano.com.br), [Rio 2016](http://www.rio2016.com.br), [Dinda](http://www.dinda.com.br), [Oppa](http://www.oppa.com.br) and [Sicredi](http://www.sicredi.com.br).
 
 ### DevOps and SRE Manager
 
@@ -149,3 +164,4 @@ I started at Vipway as a trainee and managed to reach Supervisor after one year 
 ### Lectures
 
 *   DevOps culture.
+
