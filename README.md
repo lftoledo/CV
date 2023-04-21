@@ -49,9 +49,9 @@ Overall, I am a seasoned leader with a passion for delivering business value thr
 
 ## Professional Experience
 
-### Delivery Hero from January 2021 to February 2022
+### Working at Delivery Hero from February 2022
 
-Senior Engineer Manager.  
+##### Senior Engineer Manager.  
 Main achievements: Build a Portal team. The tool helped DH to bootstrap hundreds of backoffices reducing the time to market and operations costs.
 
 ### Amazon Web Services from January 2021 to February 2022
@@ -164,4 +164,3 @@ I started at Vipway as a trainee and managed to reach Supervisor after one year 
 ### Lectures
 
 *   DevOps culture.
-
